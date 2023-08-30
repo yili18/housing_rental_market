@@ -1,4 +1,4 @@
-# Data Visualization
+# Housing Rental Analysis for San Francisco
 
 ## The project is to analyze the housing rental market data for San Francisco by using professionally styled and formatted interactive visualizations.
 
